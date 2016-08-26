@@ -1,0 +1,24 @@
+{
+    "name": "equipc/laravel-lang",
+    "description": "Easy install of the additionnal languages files for the Laravel framework",
+    "keywords": [
+        "laravel",
+        "languages",
+        "equipc"
+    ],
+    "require": {
+        "caouecs/laravel-lang": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "EquiPC\\LaravelLang\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel LAURENT",
+            "email": "michel.laurent@equipc.net"
+        }
+    ]
+}
