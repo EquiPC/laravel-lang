@@ -20,5 +20,12 @@
             "name": "Michel LAURENT",
             "email": "michel.laurent@equipc.net"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EquiPC\\LaravelLang\\TranslationPublisherServiceProvider"
+            ]
+        }
+    }
 }
